@@ -1,0 +1,42 @@
+Piso2_SLocal
+Piso 2 – Gestión Local
+Piso2_DesarrolloLocal
+Piso 2 – Desarrollo Local
+Piso2_DTI1
+Piso 2 – Tecnologías 1
+Piso2_DTI2
+Piso 2 – Tecnologías 2
+Piso2_DTI3
+Piso 2 – Tecnologías 3
+Piso2_SGI
+Piso 2 – Gestión Institucional
+Piso2_Contratacion
+Piso 2 - Contratación
+Piso2_Planeacion
+Piso 2 - Planeación
+Piso2_Financiera
+Piso 2 - Financiera
+Piso2_TalentoHumano
+Piso 2 – Talento Humano 
+Piso2_Administrativa
+Piso 2 – Administrativa
+Piso3_DDHH1
+Piso 2 – Derechos Humanos 1
+Piso3_DDHH2
+Piso 2 – Derechos Humanos 2
+Piso3_Religiosos1
+Piso 2 – Religiosos 1
+Piso3_Religiosos2
+Piso 2 – Religiosos 2
+Piso3_Control
+Piso 3 – Control Interno
+Piso3_Disciplinarios1
+Piso 3 – Disciplinarios 1
+Piso3_Disciplinarios2
+Piso 3 – Disciplinarios 2
+Piso3_Gobernab
+Piso 3 – Gobernabilidad
+Piso3_Conv
+Piso 3 – Convivencia
+Piso3_DRP
+Piso 3 – Relaciones Políticas
